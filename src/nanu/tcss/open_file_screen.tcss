@@ -1,0 +1,32 @@
+OpenFileScreen {
+    align: center middle;
+}
+
+Container {
+    width: 90vw;
+    height: 80vh;
+    border: round;
+    padding: 0 1;
+}
+
+ListView {
+    height: auto;
+    max-height: 5;
+    border: round;
+}
+
+DirectoryTree {
+    border: round;
+}
+
+Horizontal {
+    margin-top: 1;
+    width: 100%;
+    height: 1;
+    align-horizontal: right;
+}
+
+Button {
+    border: none;
+    margin-left: 1;
+}

@@ -1,0 +1,4 @@
+TextArea {
+    border: none;
+    padding: 0;
+}
